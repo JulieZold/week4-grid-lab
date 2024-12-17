@@ -28,12 +28,12 @@
     padding: 1rem; }
 
 .sidebar {     
-    grid-area: sidebar;     
-    background: #64B5F6;     
-    padding: 1rem; }  
+    grid-area: sidebar;
+    background: #64B5F6;
+    padding: 1rem; }
     
-.footer {     
-    grid-area: footer;     
-    background: #2196F3;     
-    padding: 1rem;     
+.footer {
+    grid-area: footer;
+    background: #2196F3;
+    padding: 1rem;
     color: white; }
